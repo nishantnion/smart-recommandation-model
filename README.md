@@ -1,3 +1,7 @@
+Deployed URL
+https://nishantnion.github.io/smart-recommandation-model/
+
+
 # AI-Powered Product Recommendation System
 
 A sophisticated, real-time product recommendation engine that suggests complementary items based on shopping cart contents. The system uses relationship-based scoring to provide intelligent product suggestions with confidence ratings.
